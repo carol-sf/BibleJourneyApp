@@ -1,16 +1,5 @@
-# bible_journey_app
+# Bible Journey App
 
-A new Flutter project.
+- Criado em Agosto de 2024 -
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O Bible Journey App é um aplicativo de quiz com temática bíblica, desenvolvido para testar minhas habilidades em Flutter como parte da disciplina de Tópicos Avançados na faculdade. Decidi não utilizar um banco de dados no projeto, pois o foco era explorar os recursos do Flutter e construir uma experiência leve e eficiente. O app conta com uma página inicial onde o usuário escolhe seu nome e avatar, e uma tela principal que exibe um versículo bíblico aleatório a cada acesso, além de uma trilha com o status de cada tarefa. Ao selecionar uma tarefa, o usuário é direcionado para o quiz correspondente, e a pontuação é registrada localmente.
